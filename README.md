@@ -14,8 +14,9 @@
 ${\textsf{\color{#fffff}hello, yes im jim, it is okay to treat me as if i am the canon character.}}$
   
 <br>${\textsf{\color{#fffff}i dont have many warm feelings towards mw fans but i understand if canon jim is a character you like. feel free to talk to me and sit by me.}}$
-<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder), empathy is not something i naturally feel so i suggest not venting to me}}$
-<br>${\textsf{\color{#fffff}unless you want serious advice and not to be comforted.}}$
+
+<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder), empathy is not something i naturally feel so i suggest not venting to me unless you just}}$
+<br>${\textsf{\color{#fffff}want serious advice and not to be comforted.}}$
 
 <br>${\textsf{\color{#fffff}you arent funny if you ship me with polle as a joke, polle is representitive of anyas pregnancy. it is a child. a lot of you somehow dont know that.}}$
 
