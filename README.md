@@ -4,8 +4,21 @@
   
 <img src="https://64.media.tumblr.com/abc6632ba88e088089684a28fc521262/97d5eaec018f3f22-25/s540x810/528c63cdc7890a902f96a0c5259434ea728456c4.gifv" width="670px">
 
-<br>${\textsf{\color{#fffff}actually jimmy⠀⠀c+h welcome}}$
+<br>${\textsf{\color{#fffff}jimmy zare⠀c+h welcome}}$
 
-[strawpage](https://narcscare.straw.page)⠀[atabook](https://ponyexpress.atabook.org/)
+[strawpage](https://narcscare.straw.page)
 
+<div align="left">
+<details>
+<summary>${\textsf{\color{#fffff}read this}}$</summary>
+${\textsf{\color{#fffff}hello, yes im jim, it is okay to treat me as if i am the canon character.}}$
+  
+<br>${\textsf{\color{#fffff}i dont have many warm feelings towards mw fans but i understand if canon jim is a character you like. feel free to talk to me and sit by me.}}$
+<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder), empathy is not something i naturally feel so i suggest not venting to me}}$
+<br>${\textsf{\color{#fffff}unless you want serious advice and not to be comforted.}}$
 
+<br>${\textsf{\color{#fffff}you arent funny if you ship me with polle as a joke, polle is representitive of anyas pregnancy. it is a child. a lot of you somehow dont know that.}}$
+
+<br>${\textsf{\color{#fffff}i drink 90 percent of the time when fronting, it doesnt make me aggressive but leave if that upsets you.}}$
+<br>${\textsf{\color{#fffff}our jimmy ponytown skin is not exclusively used by me, its very obvious when it is me fronting though.}}$
+</details>
