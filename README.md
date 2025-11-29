@@ -12,6 +12,7 @@
 <details>
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 ${\textsf{\color{#fffff}hello, yes im jim, it is okay to treat me as if i am the canon character.}}$
+${\textsf{\color{#fffff}anti-harassment but if you really must, harass me on my strawpage if it makes you feel better.}}$
   
 <br>${\textsf{\color{#fffff}i dont have many warm feelings towards mw fans but i understand if canon jim is a character you like. feel free to talk to me and sit by me.}}$
 
