@@ -14,7 +14,7 @@ strawpage⠀⠀⠀⠀⠀main git
 
 </div>
 
-<img src="pegassus.png" align="right" width="400px">
+<img src="pegassus.png" align="right" width="300px">
 <div align="right">
 <div>
 
@@ -28,9 +28,7 @@ ${\textsf{\color{#fffff}hi, yes its ok to treat me as if i am the canon characte
 <br>${\textsf{\color{#fffff}i dont like mw fans but i understand if you like jimmy as a}}$
 <br>${\textsf{\color{#fffff}character, feel free to talk to me and sit by me}}$
 
-<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder)}}$
-
+${\textsf{\color{#fffff}i have npd (narcissistic personality disorder)}}$
 <br>${\textsf{\color{#fffff}you arent funny if you ship me with polle as a joke}}$
-
 <br>${\textsf{\color{#fffff}i drink, it doesnt make me aggressive but leave if that upsets you}}$
 </details>
