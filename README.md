@@ -14,12 +14,12 @@ strawpage⠀⠀⠀⠀⠀main git
 
 </div>
 
-<img src="https://64.media.tumblr.com/7b8e7434af7b83d63d60e7bf97e62f91/352cc0271139cb03-d4/s500x750/a60571b32f72583543fbb488297d37531a0e0978.pnj" align="right" width="300px">
+<img src="pegassus.png" align="right" width="400px">
 <div align="right">
 <div>
 
   
-<div align="left">
+<div align="center">
 <details>
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 ${\textsf{\color{#fffff}hi, yes its ok to treat me as if i am the canon character}}$
