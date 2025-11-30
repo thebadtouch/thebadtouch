@@ -14,17 +14,16 @@ strawpage⠀⠀⠀⠀⠀main git
 <details>
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 ${\textsf{\color{#fffff}hi, yes its ok to treat me as if i am the canon character}}$
-${\textsf{\color{#fffff}harass me on my strawpage if it makes you feel better}}$
+<br>${\textsf{\color{#fffff}harass me on my strawpage if it makes you feel better}}$
   
-<br>${\textsf{\color{#fffff}i dont have much in the way of warm feelings for mw fans but i understand if you like jimmy as a character. feel free to talk to me and sit by me}}$
+<br>${\textsf{\color{#fffff}i dont like mw fans but i understand if you like jimmy as a}}$
+<br>${\textsf{\color{#fffff}character, feel free to talk to me and sit by me}}$
 
-<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder), empathy is not something i naturally feel so i suggest not venting}}$
-<br>${\textsf{\color{#fffff}to me unless you want serious advice and not to be comforted}}$
+<br>${\textsf{\color{#fffff}i have npd (narcissistic personality disorder)}}$
 
 <br>${\textsf{\color{#fffff}you arent funny if you ship me with polle as a joke}}$
 
-<br>${\textsf{\color{#fffff}i drink 90 percent of the time when fronting, it doesnt make me aggressive but leave if that upsets you}}$
-<br>${\textsf{\color{#fffff}our jimmy ponytown skin is not exclusively used by me, its very obvious when it is me fronting though}}$
+<br>${\textsf{\color{#fffff}i drink, it doesnt make me aggressive but leave if that upsets you}}$
 </details>
 
 <div align="center">
