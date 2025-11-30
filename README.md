@@ -1,4 +1,7 @@
 <div align="center">
+  
+<img src="https://64.media.tumblr.com/e8a878e78d3fcbaf939762091bb40327/a5e98e9bb04de7ee-af/s250x400/c0cd1ce557c477c67638d0e7a7ec855319ac2f47.gifv" width="50px">⠀![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=flat-square&label=ponies&color=000000)
+
 
 <br>${\textsf{\color{#fffff}jimmys account}}$
   
@@ -25,7 +28,3 @@ ${\textsf{\color{#fffff}hi, yes its ok to treat me as if i am the canon characte
 
 <br>${\textsf{\color{#fffff}i drink, it doesnt make me aggressive but leave if that upsets you}}$
 </details>
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=flat-square&label=ponies&color=000000)
