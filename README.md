@@ -42,10 +42,11 @@ ${\textsf{\color{#fffff}pls mainly whisper me to talk, it makes it less anxiety 
 <details>
 <summary>${\textsf{\color{#fffff}more about me}}$</summary>
   
-${\textsf{\color{#fffff}im part of a system, a relatively large part that usually}}$
+${\textsf{\color{#fffff}im part of a system, a pretty large part that usually}}$
 <br>${\textsf{\color{#fffff}carries out small bpd rages or does college work}}$
 
-${\textsf{\color{#fffff}i like unicorns and stuff, this mostly is because my mum does too}}$
-<br>${\textsf{\color{#fffff}ill. put more here but rn im studying so asfuaaiuglg}}$
+${\textsf{\color{#fffff}umm i like unicorns and stuff, this mostly is because my mum does}}$
+<br>${\textsf{\color{#fffff}sometimes im a grown man sometimes im not, idk}}$
+<br>${\textsf{\color{#fffff}i have npd and bpd so i have weird issues and do weird stuff ahaahhaahaha}}$
 </details>
 </div>
