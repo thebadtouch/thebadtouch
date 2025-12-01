@@ -24,12 +24,28 @@ strawpage⠀⠀⠀⠀⠀main git
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
   
 ${\textsf{\color{#fffff}hi hi, just general ponytown things}}$
-  
-<br>${\textsf{\color{#fffff}i dont like mw fans. but i understand if you like jimmy as a}}$
-<br>${\textsf{\color{#fffff}character, feel free to interact and sit with me}}$
-<br>${\textsf{\color{#fffff}if you do, pls let me know otherwise i assume youve sat near me}}$
-<br>${\textsf{\color{#fffff}by accident and will probably move away.}}$
 
-${\textsf{\color{#fffff}i have npd (narcissistic personality disorder)}}$
-<br>${\textsf{\color{#fffff}i also drink, it doesnt make me aggressive but leave if that upsets you}}$
+${\textsf{\color{#fffff}please feel free to sit with me no matter who you are, if you do}}$
+<br>${\textsf{\color{#fffff}pls let me know/make it obvious otherwise i will assume}}$
+<br>${\textsf{\color{#fffff}you've sat near me by accident and will likely move away.}}$
+
+${\textsf{\color{#fffff}pls mainly whisper me to talk, it makes it less anxiety inducing}}$
+<br>${\textsf{\color{#fffff}for me to respond. i love company and being talked to but typing}}$
+<br>${\textsf{\color{#fffff}just makes me very nervous ssfjsalflgfjdg}}$
 </details>
+</div>
+
+<div align="center">
+<img src="https://64.media.tumblr.com/c5f2f5383d5f2a02258ec6b200d8014f/3f7e61f119584860-38/s100x200/8d6afe915a52cd6cca73c7d72a7e38be7f501682.pnj" width="800px" height="20px">
+
+<div align="center">
+<details>
+<summary>${\textsf{\color{#fffff}more about me}}$</summary>
+  
+${\textsf{\color{#fffff}im part of a system, a relatively large part that usually}}$
+<br>${\textsf{\color{#fffff}carries out small bpd rages or does college work}}$
+
+${\textsf{\color{#fffff}i like unicorns and stuff, this mostly is because my mum does too}}$
+<br>${\textsf{\color{#fffff}ill. put more here but rn im studying so asfuaaiuglg}}$
+</details>
+</div>
