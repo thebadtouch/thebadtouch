@@ -49,5 +49,12 @@ ${\textsf{\color{#fffff}umm i like unicorns, like, a lot}}$
 ${\textsf{\color{#fffff}sometimes im a grown ass man, sometimes not. im just not a very fixed or stable part}}$
 
 ${\textsf{\color{#fffff}npd + bpd so i have weird issues and do weird stuff ahaha, big mood changes and whatever}}$
+
+${\textsf{\color{#fffff}i like to draw with my mouse}}$
+
+<img src="grenhorse.png" height="200px"> <img src="unicorn.png" height="200px"> <img src="pegsasus.png" height="200px">
+
+
+
 </details>
 </div>
