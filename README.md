@@ -3,7 +3,7 @@
 <img src="https://64.media.tumblr.com/0bf1b5822f7f5c7f1e9402bb7a530b0b/5ec0f7896581c5d5-d0/s75x75_c1/d664024d3c3f42b0272df557f9d54058e8b354f0.gifv" width="30px">⠀![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=flat-square&label=ponies&color=000000)
 
 
-<br>${\textsf{\color{#fffff}jimmys account}}$
+<br>${\textsf{\color{#fffff}jimmys account, iwc, ty}}$
   
 <img src="https://64.media.tumblr.com/c1e2f4b80ade5b040f318fd602cfff1b/352cc0271139cb03-b7/s400x600/73aab092f43871d514be07faaec7560014afde39.pnj" width="200px">
 
