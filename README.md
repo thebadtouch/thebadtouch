@@ -46,6 +46,7 @@ ${\textsf{\color{#fffff}id prefer if people didnt strike up entire convos with m
 ${\textsf{\color{#fffff}i like to draw with my mouse}}$
 
 <img src="grenhorse.png" height="200px"> <img src="unicorn.png" height="200px"> <img src="pegsasus.png" height="200px">
+<br><img src="Screenshot 2025-12-07 030154.png" height="200px">
 
 
 
