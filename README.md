@@ -26,13 +26,13 @@ strawpage⠀⠀⠀⠀⠀main git
 ${\textsf{\color{#fffff}i am an alter in a SYSTEM, i am not @tescoexp}}$
 <br>${\textsf{\color{#fffff}additionally i have npd + bpd, so crazy mood swings and shit}}$
   
-${\textsf{\color{#fffff}sitting with/behind me is okk pls feel free, i like receiving random whispers}}$
+${\textsf{\color{#fffff}sitting with/behind me is okk pls feel free, i like receiving random whispers too}}$
 
 ${\textsf{\color{#fffff}i dont mind if im treated as the canon character,}}$
 <br>${\textsf{\color{#fffff}how separate from MW i feel varies from day to day}}$
 
-${\textsf{\color{#fffff}id prefer if people didnt strike up entire convos with me cus}}$
-<br>${\textsf{\color{#fffff}typing to people makes my anxiety flare up pretty bad}}$
+${\textsf{\color{#fffff}id prefer if people didnt strike up random convos with me cus}}$
+<br>${\textsf{\color{#fffff}1, its annoying and 2, typing to people makes my anxiety flare up pretty bad}}$
 </details>
 </div>
 
