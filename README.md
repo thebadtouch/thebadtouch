@@ -16,7 +16,7 @@
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 </details>
   
-${\textsf{\color{#fffff}i am an alter in a SYSTEM, i am not @tescoexp}}$
+${\textsf{\color{#fffff}i am an alter in a SYSTEM, i am not tesco}}$
 <br>${\textsf{\color{#fffff}additionally i have npd + bpd, so crazy mood swings and shit}}$
   
 ${\textsf{\color{#fffff}sitting with/behind me is ok, i like random whispers too}}$
