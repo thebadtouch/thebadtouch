@@ -14,13 +14,13 @@
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 </details>
   
-${\textsf{\color{#fffff}just a few boundaries, ok?}}$
-<br>${\textsf{\color{#fffff}}...}$
-  
-${\textsf{\color{#fffff}c+h, whispering, sitting with me ✓}}$
+${\textsf{\color{#fffff}hi hi, this is my ponytown account uhhh}}$
+
+${\textsf{\color{#fffff}under 16s dont try to befriend me please}}$
+<br>${\textsf{\color{#fffff}c+h, whispering, sitting with me ✓}}$
 
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
-<br>${\textsf{\color{#fffff}how source seperate i feel varies}}$
+<br>${\textsf{\color{#fffff}cus how source seperate i feel varies}}$
 
 ${\textsf{\color{#fffff}mood can vary, frequent anxiety flares}}$
 <br>${\textsf{\color{#fffff}usually offtab, whisper me and stuff ok?}}$
@@ -39,8 +39,8 @@ ${\textsf{\color{#fffff}mood can vary, frequent anxiety flares}}$
 
 ${\textsf{\color{#fffff}i like to draw with my mouse}}$
 
-<img src="grenhorse.png" height="200px"> <img src="unicorn.png" height="200px"> <img src="pegsasus.png" height="200px">
-<br><img src="Screenshot 2025-12-07 030154.png" height="200px">
+<img src="grenhorse.png" height="150px"> <img src="unicorn.png" height="150px"> <img src="pegsasus.png" height="150px">
+<br><img src="Screenshot 2025-12-07 030154.png" height="150px">
 
 
 
