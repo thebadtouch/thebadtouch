@@ -6,7 +6,7 @@
 <br>${\textsf{\color{#fffff}jimmys account, hi welcome}}$
   
 
-<img src="pegassus.png" align="right" width="400px">
+<img src="pegassus.png" align="right" width="410px">
 <div align="right">
 <div>
 
