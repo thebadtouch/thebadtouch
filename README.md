@@ -22,7 +22,7 @@ ${\textsf{\color{#fffff}under 16s and random people dont try}}$
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
 <br>${\textsf{\color{#fffff}cus how source seperate i feel varies}}$
 
-${\textsf{\color{#fffff}mood can vary, frequent anxiety flares}}$
+${\textsf{\color{#fffff}severe mood swings, gen anxiety disorder}}$
 <br>${\textsf{\color{#fffff}usually offtab, whisper me and stuff ok?}}$
 
 <br>strawpage⠀⠀⠀main git
