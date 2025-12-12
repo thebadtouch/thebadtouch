@@ -40,7 +40,7 @@ ${\textsf{\color{#fffff}mood can vary, frequent anxiety flares}}$
 ${\textsf{\color{#fffff}i like to draw with my mouse}}$
 
 <img src="grenhorse.png" height="150px"> <img src="unicorn.png" height="150px"> <img src="pegsasus.png" height="150px">
-<br><img src="Screenshot 2025-12-07 030154.png" height="150px">
+<br><img src="Screenshot 2025-12-07 030154.png" height="150px"> <img src="Screenshot 2025-12-12 112504.png" height="150px">
 
 
 
