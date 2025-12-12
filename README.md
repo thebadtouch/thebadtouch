@@ -16,8 +16,8 @@
   
 ${\textsf{\color{#fffff}hi hi, this is my ponytown account uhhh}}$
 
-${\textsf{\color{#fffff}under 16s dont try to befriend me please}}$
-<br>${\textsf{\color{#fffff}c+h, whispering, sitting with me ✓}}$
+${\textsf{\color{#fffff}under 16s and random people dont try}}$
+<br>${\textsf{\color{#fffff}to befriend me please}}$
 
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
 <br>${\textsf{\color{#fffff}cus how source seperate i feel varies}}$
