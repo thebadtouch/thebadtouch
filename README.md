@@ -20,7 +20,7 @@ ${\textsf{\color{#fffff}under 16s and random people dont try}}$
 <br>${\textsf{\color{#fffff}to befriend me please}}$
 
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
-<br>${\textsf{\color{#fffff}cus how source seperate i feel varies}}$
+<br>${\textsf{\color{#fffff}cus how source seperate i feel varies, idrc}}$
 
 ${\textsf{\color{#fffff}severe mood swings, gen anxiety disorder}}$
 <br>${\textsf{\color{#fffff}usually offtab, whisper me and stuff ok?}}$
