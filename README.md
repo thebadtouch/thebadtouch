@@ -18,8 +18,7 @@ ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
 <br>${\textsf{\color{#fffff}being subjected to possible hostility and bluntness}}$
 <br>${\textsf{\color{#fffff}proceed with care}}$
 
-${\textsf{\color{#fffff}under 16s and random people dont try}}$
-<br>${\textsf{\color{#fffff}to befriend me please}}$
+${\textsf{\color{#fffff}under 16 dni unless tesco's friends}}$
 
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
 <br>${\textsf{\color{#fffff}cus how source seperate i feel varies, idrc}}$
