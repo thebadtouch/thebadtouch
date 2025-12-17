@@ -15,8 +15,8 @@
 </details>
   
 ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
-<br>${\textsf{\color{#fffff}being subjected to possible hostility and bluntness}}$
-<br>${\textsf{\color{#fffff}proceed with care}}$
+<br>${\textsf{\color{#fffff}being subjected to the symptoms of my illness}}$
+<br>${\textsf{\color{#fffff}proceed with care, look after yourself}}$
 
 ${\textsf{\color{#fffff}under 16 dni unless tesco's friends}}$
 
