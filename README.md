@@ -14,9 +14,9 @@
 <summary>${\textsf{\color{#fffff}read this}}$</summary>
 </details>
   
-${\textsf{\color{#fffff}by interacting w me you are aknowledging}}$
-<br>${\textsf{\color{#fffff}my issues with mood and socializing, proceed}}$
-<br>${\textsf{\color{#fffff}with care}}$
+${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
+<br>${\textsf{\color{#fffff}being subjected to possible hostility and bluntness}}$
+<br>${\textsf{\color{#fffff}proceed with care}}$
 
 ${\textsf{\color{#fffff}under 16s and random people dont try}}$
 <br>${\textsf{\color{#fffff}to befriend me please}}$
