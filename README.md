@@ -18,7 +18,7 @@ ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
 <br>${\textsf{\color{#fffff}being subjected to the symptoms of my illness}}$
 
 ${\textsf{\color{#fffff}under 16s dni unless tesco's friends}}$
-<br>${\textsf{\color{#fffff}jimmy skins/other 'alters' dni}}$
+<br>${\textsf{\color{#fffff}other jimmy skins/'alters' dni}}$
 
 ${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
 <br>${\textsf{\color{#fffff}cus how source seperate i feel varies, idrc}}$
