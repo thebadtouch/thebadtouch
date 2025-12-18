@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="https://64.media.tumblr.com/0bf1b5822f7f5c7f1e9402bb7a530b0b/5ec0f7896581c5d5-d0/s75x75_c1/d664024d3c3f42b0272df557f9d54058e8b354f0.gifv" width="30px">⠀![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=flat-square&label=ponies&color=000000)
-<br>${\textsf{\color{#fffff}jimmys account}}$
+<br>${\textsf{\color{#fffff}jimmy/jim/room/sasha}}$
   
 <br>
 <img src="pegassus.png" align="right" width="440px">
