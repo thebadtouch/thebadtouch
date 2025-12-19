@@ -20,8 +20,8 @@ ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
 ${\textsf{\color{#fffff}im an adult, under 16s dni unless tescos friend}}$
 <br>${\textsf{\color{#fffff}other jimmy skins/'alters' dni}}$
 
-${\textsf{\color{#fffff}you may treat me as canon jimmy}}$
-<br>${\textsf{\color{#fffff}cus how source seperate i feel varies, idrc}}$
+${\textsf{\color{#fffff}you may treat me as canon jimmy, idrc}}$
+<br>${\textsf{\color{#fffff}i like <pig> and drawing dumb stuff}}$
 
 ${\textsf{\color{#fffff}severe mood swings, gen anxiety disorder}}$
 <br>${\textsf{\color{#fffff}either offtab or ignoring you}}$
