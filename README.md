@@ -17,7 +17,7 @@
 ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
 <br>${\textsf{\color{#fffff}being subjected to the symptoms of my illness}}$
 
-${\textsf{\color{#fffff}not pro-fiction}}$
+${\textsf{\color{#fffff}i am not pro-fiction}}$
 <br>${\textsf{\color{#fffff}i really like PIG and sitcoms and drawing ppl stuff}}$
 
 ${\textsf{\color{#fffff}other jimmy skins/'alters'/kins dniuf}}$
