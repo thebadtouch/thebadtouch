@@ -17,11 +17,11 @@
 ${\textsf{\color{#fffff}by interacting with me you are agreeing to}}$
 <br>${\textsf{\color{#fffff}being subjected to the symptoms of my illness}}$
 
-${\textsf{\color{#fffff}im an adult, under 16s dni unless tescos friend}}$
+${\textsf{\color{#fffff}not pro-fiction}}$
 <br>${\textsf{\color{#fffff}i really like PIG and sitcoms and drawing ppl stuff}}$
 
-${\textsf{\color{#fffff}other jimmy skins/'alters' also dni}}$
-<br>${\textsf{\color{#fffff}besides that you may treat me as canon jimmy, idrc}}$
+${\textsf{\color{#fffff}other jimmy skins/'alters'/kins dniuf}}$
+<br>${\textsf{\color{#fffff}im an adult, under 16s dni unless tescos friend}}$
 
 ${\textsf{\color{#fffff}severe mood swings, gen anxiety disorder}}$
 <br>${\textsf{\color{#fffff}offtab a lot but i always try to respond to whispers}}$
